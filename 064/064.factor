@@ -1,4 +1,4 @@
-USING: math math.ranges sequences ;
+USING: kernel math math.ranges math.functions sequences locals accessors ;
 IN: project-euler-problems.064
 
 TUPLE: cont-frac
